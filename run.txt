@@ -1,0 +1,14 @@
+Just Run It By;
+  > python3 secure_password_gen.py
+
+Enter Your Normal Password and Hit Enter.
+You Will Get The Secure Password.
+
+COPY it and Use It as a password.....
+Also your password will save on the same flder by "password.txt" in encrypted form. 
+>>>> If You forget the password..... just use the txt_decode.py to get the password. <<<<<<
+python3 txt_decoder.py
+>>> remove 55 <- from the password after Decoding....
+
+55 is onlly for Secrity Reason.
+
